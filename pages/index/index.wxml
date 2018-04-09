@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <text>{{alert}}</text>
+  <button bindtap="retry" class="{{buttonClass}}"> 重试 </button>
+</view>
